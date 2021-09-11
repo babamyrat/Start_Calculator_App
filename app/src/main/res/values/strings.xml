@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Start Calculator App</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_surname">Surname</string>
+    <string name="btn_action">"Do something useful "</string>
+    <string name="btn_go_back">Go Back With Glory</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_link">Link Open App</string>
 </resources>
